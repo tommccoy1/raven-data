@@ -18,7 +18,7 @@ There are results for all combinations of the following:
 - The models `lstm`, `transformer`, `transfo-xl`, `gpt2` (which is the small size of GPT-2), `gpt2-medium`, `gpt2-large`, and `gpt2-xl`
 - The prompt lengths 0, 16, 128, and 512 (except that, for GPT-2 models, we are only able to share files for prompt length 0).
 - Top-1 sampling, top-10 sampling, top-40 sampling, top-800 sampling, top-0.75 sampling, top-0.90 sampling, top-0.95 sampling, top-1.0 sampling (i.e., pure sampling), top-1.0 sampling with a temperature of 0.7, top-1.0 sampling with a temperature of 0.9, top-1.0 sampling with a temperature of 1.1, and top-1.0 sampling with a temperature of 1.3. Across model types, the notation in the filenames is somewhat inconsistent, but it should be reasonably clear what condition each file is for; please ask if any are unclear.
-- Currently a couple files are missing for gpt2-xl with temperature 1.1 and for gpt2 with top-10 sampling. We are trying to track these down now.
+- Note: Some of the n-gram reports for gpt2-xl with temperature 1.1 and for gpt2 with top-10 sampling are missing supercopying overlap counts. We are unfortunately unable to recover these results. The rest of the reports should be complete. 
 
 ## License
 
