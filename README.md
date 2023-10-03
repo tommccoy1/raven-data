@@ -1,6 +1,8 @@
 # raven-data
 Data from the RAVEN project. Most of the information about the project is at the [main Git repo](https://github.com/tommccoy1/raven); this repo is just for the data (which is separate from the main repo because it involves a large number of large files that most users of the code won't need).
 
+WARNING: Some of the documents in this repository contain toxic or inappropriate text. These documents were produced by generating text from large language models, a process that often results in objectionable content.
+
 ## Description
 All of the files are in `prompts_and_generations/`. The types of files that are included are as follows. Note that, due to data restrictions, the only GPT-2 and WebText files that we can include are ones with prompt length 0:
 - Prompts are in the files starting with `webtext_prompts` and `wikitext_prompts`.
