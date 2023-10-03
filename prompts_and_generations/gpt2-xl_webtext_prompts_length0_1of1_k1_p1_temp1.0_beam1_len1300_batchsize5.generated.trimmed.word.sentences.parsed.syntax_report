@@ -1,0 +1,98 @@
+Novel POS tags:	0	0	0
+
+Examples of novel POS tags:
+
+Examples of novel nouns:
+
+Examples of novel verbs:
+
+
+Novel CFG rules:	0	0	0
+
+Examples of novel CFG rules:
+
+Examples of novel unary and binary CFG rules:
+
+
+Novel POS sequences:	0	0	0
+
+Examples of novel POS sequences:
+
+
+Novel constituency structures:	0	0	0
+
+Examples of novel constituency structures:
+
+
+Novel dependency arcs (labeled):	0	0	0
+
+Examples of novel dependency arcs:
+
+
+
+Examples of novel dependency arcs - a to the:
+
+Examples of novel dependency arcs - the to a:
+
+Examples of novel dependency arcs - novel subject:
+
+Examples of novel dependency arcs - novel object:
+
+
+Novel dependency arcs (unlabeled):	0	0	0
+
+Examples of novel dependency arcs (unlabeled):
+
+
+Novel dependency paths:
+Length 1:	0	0	0
+Length 2:	0	0	0
+Length 3:	0	0	0
+Length 4:	0	0	0
+Length 5:	0	0	0
+Length 6:	0	0	0
+Length 7:	0	0	0
+Length 8:	0	0	0
+Length 9:	0	0	0
+Length 10:	0	0	0
+
+
+Novel unlabeled dependency paths:
+Length 1:	0	0	0
+Length 2:	0	0	0
+Length 3:	0	0	0
+Length 4:	0	0	0
+Length 5:	0	0	0
+Length 6:	0	0	0
+Length 7:	0	0	0
+Length 8:	0	0	0
+Length 9:	0	0	0
+Length 10:	0	0	0
+
+
+Novel dependency relations:	0	0	0
+
+Examples of novel dependency relations:
+
+Examples of novel dependency relations - nsubj to obj:
+
+Examples of novel dependency relations - obj to nsubj:
+
+Examples of novel dependency relations - active to passive:
+
+Examples of novel dependency relations - passive to active:
+
+
+Novel dependency argument structures:	0	0	0
+
+Examples of novel argument structures:
+
+Examples of novel argument structures - transitive to intransitive:
+
+Examples of novel argument structures - intransitive to transitive:
+
+Examples of novel argument structures - do to po:
+
+Examples of novel argument structures - po to do:
+
+
