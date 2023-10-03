@@ -1,0 +1,137 @@
+Generation filename: ../../data/prompts_and_generations/transformer_wikitext_prompts_length0_1of1.txt.k1_pNone_tempNone.generated.trimmed
+
+Pointwise score: 10.404
+Inverse pointwise score: 0.35778959562286805
+Log2 pointwise score: 2.3911195209398746
+Ln pointwise score:1.6573977543281018
+Truncated-5 pointwise score:3.51
+
+Average pointwise score by position:
+2.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,40.0,2.0,2.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,3.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,4.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,40.0,1.0,2.0,3.0,4.0,5.0,3.0,4.0,5.0,6.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,3.0,4.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,3.0,4.0,4.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,3.0,2.0,3.0,4.0,5.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,2.0,1.0,2.0,3.0,4.0,5.0,2.0,3.0,4.0,5.0,6.0,7.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,12.0,1.0,2.0,1.0,2.0,2.0,3.0,4.0,5.0,2.0,3.0,2.0,3.0,2.0,3.0,4.0,5.0,6.0,7.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,3.0,2.0,3.0,4.0,1.0,1.0,2.0,3.0,2.0,2.0,1.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,4.0,4.0,5.0,6.0,7.0,8.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,3.0,1.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,3.0,1.0,2.0,2.0,2.0,3.0,4.0,5.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,3.0,3.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,3.0,4.0,5.0,6.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,2.0,2.0,2.0,3.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,2.0,3.0,2.0,2.0,3.0,4.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,3.0,4.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,1.0,2.0,3.0,2.0,2.0,3.0,4.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,40.0,41.0,42.0,43.0,44.0,45.0,46.0,47.0,48.0,49.0,50.0,51.0,52.0,53.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0,40.0,41.0,42.0,43.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,3.0,4.0,5.0,6.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,3.0,2.0,1.0,2.0,3.0,4.0,5.0,6.0,6.0,3.0,4.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0
+Binned average pointwise score by position:
+4.49,13.72,15.06,3.25,2.65,5.18,11.23,19.46,24.31,4.69
+Truncated average pointwise score by position:
+2.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,2.0,1.0,1.0,1.0,2.0,3.0,2.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,3.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,4.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,1.0,2.0,3.0,4.0,5.0,3.0,4.0,5.0,6.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,3.0,4.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,3.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,3.0,4.0,4.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,3.0,2.0,3.0,4.0,5.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,2.0,1.0,2.0,3.0,4.0,5.0,2.0,3.0,4.0,5.0,6.0,7.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,1.0,2.0,1.0,2.0,2.0,3.0,4.0,5.0,2.0,3.0,2.0,3.0,2.0,3.0,4.0,5.0,6.0,7.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,3.0,2.0,3.0,4.0,1.0,1.0,2.0,3.0,2.0,2.0,1.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,4.0,4.0,5.0,6.0,7.0,8.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,3.0,1.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,3.0,1.0,2.0,2.0,2.0,3.0,4.0,5.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,3.0,3.0,2.0,3.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,3.0,4.0,5.0,6.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,2.0,2.0,2.0,3.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,3.0,2.0,2.0,3.0,4.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,1.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,3.0,4.0,1.0,2.0,1.0,1.0,2.0,3.0,2.0,2.0,1.0,2.0,3.0,2.0,2.0,3.0,4.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,2.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,3.0,4.0,5.0,6.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,3.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,3.0,2.0,1.0,2.0,3.0,4.0,5.0,6.0,6.0,3.0,4.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,10.0,10.0
+Truncated binned average pointwise score by position:
+4.043956043956044,6.91,7.73,3.14,2.58,3.65,5.78,8.71,8.98,4.3
+
+Overlap sizes: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52
+Overlap proportions:0.809,0.6306306306306306,0.5601202404809619,0.5135406218655968,0.47690763052208834,0.44321608040201005,0.41448692152917505,0.3877139979859013,0.3639112903225806,0.3420787083753784,0.32525252525252524,0.3083923154701719,0.2935222672064777,0.2786220871327254,0.26369168356997974,0.25076142131979695,0.23780487804878048,0.22583926754832145,0.21486761710794297,0.2038735983690112,0.19285714285714287,0.18181818181818182,0.17075664621676892,0.15967246673490276,0.14856557377049182,0.13743589743589743,0.12628336755646818,0.11510791366906475,0.10390946502057613,0.09268795056642637,0.08144329896907217,0.07120743034055728,0.06301652892561983,0.05480868665977249,0.046583850931677016,0.039378238341968914,0.03319502074688797,0.02699896157840083,0.02079002079002079,0.01664932362122789,0.014583333333333334,0.01251303441084463,0.010438413361169102,0.009404388714733543,0.008368200836820083,0.007329842931937173,0.006289308176100629,0.005246589716684155,0.004201680672268907,0.0031545741324921135,0.002105263157894737,0.001053740779768177
+
+Novel bigram examples in context
+disc contains the episodes " The Man Who Knew Too ***Much "*** , " The Man Who Knew Too Much " ,
+@-@ rated show on the Fox network that week , ***beating The*** Simpsons , The X @-@ Files , and The Simpsons
+on the show . " <eos> Not all reviews were ***positive .*** Tom Kessenich , in his book Examination : An Unauthorized
+so good that it 's hard not to forget that ***he 's*** the best actor on the show . " Robert Shearman
+The X @-@ Files , Millennium & The Lone Gunmen ***, rated*** the season five stars out of five . The two
+<eos> The first season received mixed to positive reviews from ***critics .*** Tom Kessenich , in his book Examination : An Unauthorized
+for Outstanding Drama Series , but lost to the series ***finale of*** The X @-@ Files . At the 2006 Saturn Awards
+book Examination : An Unauthorized Look at Seasons 6 – ***9 of*** the X @-@ Files wrote positively of the season ,
+, directing , and acting of Duchovny , saying , ***" Duchovny*** 's performance is so good that it 's hard not
+debuted on DVD on September 21 , 2005 . The ***DVD contains*** the episodes " The Man Who Knew Too Much "
+" He also praised the writing , directing , and ***acting of*** Duchovny , saying , " Duchovny 's performance is so
+was nominated for Outstanding Drama Series , but lost to ***the series*** finale of The X @-@ Files . At the 2006
+= = = <eos> <eos> The first season received several ***awards and*** nominations . At the 38th Primetime Emmy Awards , the
+that he 's the best actor on the show . ***" <eos>*** Not all reviews were positive . Tom Kessenich , in
+of all television @-@ equipped households , and 18 percent ***of households*** watching television , were tuned in to the episode .
+I 've seen the show that I love . " ***He also*** praised the writing , directing , and acting of Duchovny
+'s hard not to forget that he 's the best ***actor on*** the show . " Robert Shearman and Lars Pearson ,
+on the Fox network that week , beating The Simpsons ***, The*** X @-@ Files , and The Simpsons . <eos> <eos>
+book Examination : An Unauthorized Look at Seasons 6 – ***9 of*** the X @-@ Files wrote positively of the season ,
+" , and " The Man Who Knew Too Much ***" .*** <eos> <eos> = = = = = Series 1 =
+rated the season five stars out of five . The ***two praised*** the writing , directing , and acting of Duchovny ,
+@-@ a @-@ half stars out of four . She ***called the*** season " a solid season of television " , and
+, in their book Wanting to Believe : A Critical ***Guide to*** The X @-@ Files , Millennium & The Lone Gunmen
+, beating The Simpsons , The X @-@ Files , ***and The*** Simpsons . <eos> <eos> = = = Reviews = =
+review and awarded it two @-@ and @-@ a @-@ ***half stars*** out of four . She called the season " a
+also praised the writing , directing , and acting of ***Duchovny ,*** saying , " Duchovny 's performance is so good that
+. She called the season " a solid season of ***television "*** , and praised the writing , directing , and acting
+, " I can 't help but feel that this ***is the*** first season of The X @-@ Files that I 've
+X @-@ Files debuted with a Nielsen rating of 9 ***@.@ 1*** , with an 18 share , meaning that roughly 9
+show . " Paula Vitaris from Cinefantastique gave the season ***a positive*** review and awarded it two @-@ and @-@ a @-@
+gave the season a positive review and awarded it two ***@-@ and*** @-@ a @-@ half stars out of four . She
+@-@ rated show on the Fox network that week . ***The season*** ranked as the second highest @-@ rated show on the
+debuted on DVD on September 21 , 2005 . The ***DVD contains*** the episodes " The Man Who Knew Too Much "
+that he 's the best actor on the show . ***" Shearman*** and Pearson also praised the acting of Duchovny , saying
+a commentary track by series creator David Duchovny . The ***second disc*** contains the episodes " The Man Who Knew Too Much
+roughly 9 @.@ 1 percent of all television @-@ equipped ***households ,*** and 18 percent of households watching television , were tuned
+1 percent of all television @-@ equipped households , and ***18 percent*** of households watching television , were tuned in to the
+for Outstanding Drama Series , but lost to the series ***finale of*** The X @-@ Files . At the 2006 Saturn Awards
+tuned in to the episode . It was viewed by ***19 @.@*** 9 million viewers . The first season ranked as the
+this is the first season of The X @-@ Files ***that I*** 've seen the show that I love . " He
+DVD on September 21 , 2005 . The first disc ***contains the*** episodes " The Man Who Knew Too Much " ,
+the season was nominated for Outstanding Drama Series , but ***lost to*** the series finale of The X @-@ Files . At
+also praised the writing , directing , and acting of ***Duchovny ,*** saying , " Duchovny 's performance is so good that
+the best actor on the show . " <eos> Not ***all reviews*** were positive . Tom Kessenich , in his book Examination
+<eos> The first season received several awards and nominations . ***At the*** 38th Primetime Emmy Awards , the season was nominated for
+he 's the best actor on the show . " ***Vitaris also*** praised the acting of Duchovny , saying , " Duchovny
+'s the best actor on the show . " <eos> ***Not all*** reviews were positive . Tom Kessenich , in his book
+9 of the X @-@ Files wrote positively of the ***season ,*** saying , " I can 't help but feel that
+X @-@ Files , Millennium & The Lone Gunmen , ***rated the*** season five stars out of five . The two praised
+, in their book Wanting to Believe : A Critical ***Guide to*** The X @-@ Files , Millennium & The Lone Gunmen
+television @-@ equipped households , and 18 percent of households ***watching television*** , were tuned in to the episode . It was
+debuted on DVD on September 21 , 2005 . The ***DVD contains*** the episodes " The Man Who Knew Too Much "
+rated the season five stars out of five . The ***two praised*** the writing , directing , and acting of Duchovny ,
+track by Duchovny and producer Frank Spotnitz . The DVD ***also contains*** the episodes " The Man Who Knew Too Much "
+season of The X @-@ Files that I 've seen ***the show*** that I love . " He also praised the writing
+out of four . She called the season " a ***solid season*** of television " , and praised the writing , directing
+<eos> The first season of The X @-@ Files debuted ***with a*** Nielsen rating of 9 @.@ 1 , with an 18
+a positive review and awarded it two @-@ and @-@ ***a @-@*** half stars out of four . She called the season
+to forget that he 's the best actor on the ***show .*** " Robert Shearman and Lars Pearson , in their book
+the best actor on the show . " <eos> Not ***all reviews*** were positive . Tom Kessenich , in his book Examination
+in their book Wanting to Believe : A Critical Guide ***to The*** X @-@ Files , Millennium & The Lone Gunmen ,
+four . She called the season " a solid season ***of television*** " , and praised the writing , directing , and
+he 's the best actor on the show . " ***Vitaris also*** praised the acting of Duchovny , saying , " Duchovny
+the episodes " The Man Who Knew Too Much " ***, "*** The Man Who Knew Too Much " , and "
+best actor on the show . " <eos> Not all ***reviews were*** positive . Tom Kessenich , in his book Examination :
+a commentary track by series creator David Duchovny . The ***second disc*** contains the episodes " The Man Who Knew Too Much
+on September 21 , 2005 . The first disc contains ***the episodes*** " The Man Who Knew Too Much " , "
+a commentary track by series creator David Duchovny . The ***second disc*** contains the episodes " The Man Who Knew Too Much
+to forget that he 's the best actor on the ***show .*** " Robert Shearman and Lars Pearson , in their book
+actor on the show . " Robert Shearman and Lars ***Pearson ,*** in their book Wanting to Believe : A Critical Guide
+= = = = = <eos> <eos> The first season ***of The*** X @-@ Files debuted on DVD on September 21 ,
+Nielsen rating of 9 @.@ 1 , with an 18 ***share ,*** meaning that roughly 9 @.@ 1 percent of all television
+Seasons 6 – 9 of the X @-@ Files wrote ***positively of*** the season , saying , " I can 't help
+he 's the best actor on the show . " ***Kessenich also*** praised the acting of Duchovny , saying , " Duchovny
+season were released on DVD on September 21 , 2005 ***. The*** first disc contains the episodes " The Man Who Knew
+, beating The Simpsons , The X @-@ Files , ***and The*** Simpsons . <eos> <eos> = = = Reviews = =
+of The X @-@ Files . At the 2006 Golden ***Reel Awards*** , the season was nominated for Best Sound Editing :
+21 , 2005 . The first disc contains the episodes ***" The*** Man Who Knew Too Much " , " The Man
+half stars out of four . She called the season ***" a*** solid season of television " , and praised the writing
+on the Fox network that week , beating The Simpsons ***, The*** X @-@ Files , and The Simpsons . <eos> <eos>
+. The first season ranked as the highest @-@ rated ***show on*** the Fox network that week . The season ranked as
+1 = = = = = <eos> <eos> The first ***season of*** The X @-@ Files debuted on DVD on September 21
+= Reception = = <eos> <eos> <eos> = = = ***Ratings =*** = = <eos> <eos> The first season of The X
+@-@ a @-@ half stars out of four . She ***called the*** season " a solid season of television " , and
+, were tuned in to the episode . It was ***viewed by*** 19 @.@ 9 million viewers . The first season ranked
+actor on the show . " Robert Shearman and Lars ***Pearson ,*** in their book Wanting to Believe : A Critical Guide
+The X @-@ Files , Millennium & The Lone Gunmen ***, rated*** the season five stars out of five . The two
+rated the season five stars out of five . The ***two praised*** the writing , directing , and acting of Duchovny ,
+DVD on September 21 , 2005 . The first disc ***contains the*** episodes " The Man Who Knew Too Much " ,
+television @-@ equipped households , and 18 percent of households ***watching television*** , were tuned in to the episode . It was
+X @-@ Files , Millennium & The Lone Gunmen , ***rated the*** season five stars out of five . The two praised
+television @-@ equipped households , and 18 percent of households ***watching television*** , were tuned in to the episode . It was
+the show . " Paula Vitaris from Cinefantastique gave the ***season a*** positive review and awarded it two @-@ and @-@ a
+on the Fox network that week , beating The Simpsons ***, The*** X @-@ Files , and The Simpsons . <eos> <eos>
+Primetime Emmy Awards , the season was nominated for Outstanding ***Drama Series*** , but lost to the series finale of The X
+of The X @-@ Files . At the 2006 Golden ***Reel Awards*** , the season was nominated for Best Sound Editing :
+Primetime Emmy Awards , the season was nominated for Outstanding ***Drama Series*** , but lost to the series finale of The X
+the Fox network that week , following The X @-@ ***Files .*** The season ranked as the highest @-@ rated show on
+season , saying , " I can 't help but ***feel that*** this is the first season of The X @-@ Files
+two @-@ and @-@ a @-@ half stars out of ***four .*** She called the season " a solid season of television
+
+Supercopying examples in context
+
+Length of longest supercopying example: 0
+Longest supercopying example:
+
+
+Average supercopying overlap: 0
+Average supercopying max overlap: 0
+All supercopying overlaps:
+
+All supercopying max overlaps:
+
+Max supercopy overlap: 0
+Max supercopy:
+

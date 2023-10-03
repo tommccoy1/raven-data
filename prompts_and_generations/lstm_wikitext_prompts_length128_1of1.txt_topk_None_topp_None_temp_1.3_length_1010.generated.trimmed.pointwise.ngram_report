@@ -1,0 +1,137 @@
+Generation filename: ../../data/prompts_and_generations/lstm_wikitext_prompts_length128_1of1.txt_topk_None_topp_None_temp_1.3_length_1010.generated.trimmed
+
+Pointwise score: 3.00308
+Inverse pointwise score: 0.36436565096998785
+Log2 pointwise score: 1.518965134706037
+Ln pointwise score:1.0528664005033452
+Truncated-5 pointwise score:2.974608
+
+Average pointwise score by position:
+2.0,2.706,3.047,3.181,3.235,3.229,3.214,3.188,3.195,3.183,3.152,3.079,3.121,3.134,3.137,3.137,3.109,3.088,3.1,3.115,3.091,3.113,3.156,3.075,3.069,3.088,3.068,3.068,3.049,3.088,3.096,3.099,3.084,3.134,3.127,3.061,3.072,3.082,3.072,3.073,3.109,3.088,3.028,3.09,3.101,3.091,3.08,3.062,3.034,3.119,3.142,3.112,3.11,3.096,3.103,3.136,3.07,3.061,3.052,3.079,3.102,3.085,3.076,3.017,3.039,3.07,3.02,3.039,3.056,3.061,3.077,3.067,3.087,3.049,3.045,3.022,3.024,3.062,3.097,3.076,3.079,3.048,3.04,3.03,3.015,3.055,3.038,3.082,3.08,3.043,3.044,3.028,3.048,3.045,3.057,3.058,3.071,3.068,3.113,3.035,3.046,3.044,3.039,3.043,3.051,3.111,3.082,3.053,3.055,3.052,3.057,3.084,3.063,3.078,3.04,2.996,3.035,3.044,3.023,3.049,3.027,3.024,3.036,2.999,3.025,3.045,2.991,3.048,3.032,3.023,3.097,3.045,3.082,3.096,3.06,3.034,3.049,3.025,3.035,3.055,3.031,3.027,2.982,3.018,3.048,3.045,3.093,3.086,3.083,3.04,3.074,3.052,2.995,3.016,2.98,2.981,2.963,2.98,2.995,3.028,3.035,3.016,2.986,3.036,3.004,3.057,3.03,3.024,2.994,2.991,3.047,3.019,3.047,2.997,3.005,3.043,3.076,3.075,3.066,3.047,3.04,3.016,3.026,3.038,3.039,3.031,3.046,3.015,3.026,3.015,2.98,3.029,3.047,2.971,3.029,3.023,2.972,3.009,3.026,3.074,3.045,3.049,3.007,2.983,3.027,3.025,3.012,3.044,3.059,3.013,3.045,3.112,3.09,3.049,2.996,2.986,2.986,3.017,3.038,2.988,3.031,3.021,3.014,3.021,3.014,2.992,3.01,2.999,2.976,2.985,3.023,3.052,3.036,3.031,3.053,3.063,3.036,2.994,3.029,3.035,3.061,3.024,2.975,2.969,2.99,3.012,3.031,3.003,3.024,3.037,3.034,2.99,2.984,3.016,3.042,3.016,3.009,3.015,3.057,3.049,3.044,3.019,2.987,3.019,3.068,3.06,3.028,3.003,2.983,2.998,3.009,3.001,3.025,2.979,3.009,3.007,3.036,3.017,2.988,2.97,2.961,3.022,2.997,3.01,3.007,3.031,3.017,3.025,3.007,3.005,3.011,3.051,3.01,3.031,3.016,3.069,3.057,3.015,3.041,3.002,3.002,3.001,3.002,3.006,3.001,2.986,2.991,2.979,3.019,3.016,2.985,3.013,3.044,3.056,3.059,3.001,2.994,3.008,3.005,3.026,3.017,3.0,3.026,3.015,2.976,2.999,2.99,3.011,3.024,3.027,3.023,2.974,3.018,3.003,3.003,2.977,2.979,2.99,3.028,2.987,2.994,3.032,3.004,3.012,2.943,2.977,3.018,3.004,2.948,2.965,2.991,2.964,2.992,2.961,3.027,3.048,3.062,3.06,3.089,3.064,3.041,3.028,3.033,3.039,3.048,3.03,3.042,3.043,2.996,2.98,2.987,3.0,2.994,2.992,2.973,2.962,2.994,2.988,3.008,2.99,2.993,3.001,2.952,2.992,2.979,3.035,3.014,2.981,3.021,3.08,2.993,2.994,3.003,2.992,2.983,2.974,2.99,3.023,3.059,3.031,3.041,3.013,3.019,3.004,3.03,3.046,3.023,3.022,3.03,3.013,3.026,2.997,2.985,3.019,2.99,2.97,2.961,2.955,2.903,2.928,2.959,2.978,2.999,2.991,3.045,2.999,2.957,2.992,3.03,3.036,2.983,2.97,2.901,2.953,2.959,2.949,2.98,3.013,2.953,2.996,3.02,3.024,2.975,2.995,2.973,2.988,2.954,2.983,3.047,2.994,3.037,3.014,2.995,3.041,3.016,2.976,2.965,2.966,2.959,2.97,3.003,3.032,3.021,3.021,2.995,3.042,3.07,3.052,3.031,3.032,3.087,3.051,3.073,3.042,2.993,2.972,2.951,2.971,2.988,3.008,3.008,3.009,2.958,2.964,2.92,2.953,2.983,3.063,2.995,3.013,3.065,3.066,3.027,3.008,2.988,2.988,2.954,2.991,2.984,3.015,3.016,2.994,2.936,2.926,2.979,2.964,2.929,2.998,2.978,2.977,2.987,3.009,3.06,3.035,3.026,3.036,3.014,3.019,3.0,3.02,2.97,2.945,2.958,2.982,3.049,3.0,3.002,3.086,3.046,3.048,3.017,2.937,3.023,2.989,2.991,3.042,2.995,2.955,2.976,2.99,3.023,3.016,3.019,2.987,2.982,2.982,2.997,2.955,2.961,2.968,2.972,3.002,2.982,2.954,2.956,3.027,3.036,3.062,3.006,2.983,2.948,2.987,2.972,2.927,2.954,2.977,2.958,2.973,2.987,2.976,2.904,2.946,2.964,2.972,2.921,2.972,2.979,2.962,3.008,2.996,2.971,2.969,2.993,2.987,2.992,2.958,2.949,3.011,3.029,3.036,2.981,2.942,2.958,2.973,2.961,2.983,2.995,3.03,3.015,3.011,3.046,3.034,3.01,2.954,3.011,3.034,2.969,2.98,2.935,2.937,2.97,2.982,3.011,3.004,3.048,3.02,2.981,3.007,3.057,3.064,3.036,3.056,3.003,3.017,2.977,2.973,2.93,2.997,2.991,3.005,3.012,2.989,2.981,3.001,2.967,2.989,2.967,2.974,2.989,2.999,2.964,3.0,3.007,2.986,3.013,2.944,2.938,2.943,2.929,2.931,2.917,2.933,2.919,2.992,2.942,2.947,2.925,2.936,2.951,2.97,3.009,3.023,2.978,2.973,2.957,2.935,2.98,2.953,2.991,3.051,2.984,2.989,3.0,2.981,3.024,3.038,2.937,2.968,2.981,2.974,2.962,3.009,3.006,2.983,2.926,2.956,3.007,2.958,2.964,3.012,2.996,3.013,3.002,2.967,2.953,2.981,3.043,3.016,3.001,3.024,2.983,2.949,2.947,2.952,2.967,2.999,2.993,3.024,2.999,2.998,2.995,3.035,3.007,2.968,2.95,2.981,2.947,2.959,2.944,2.922,2.965,3.001,3.047,2.978,2.954,2.949,2.948,2.965,2.995,2.974,2.971,2.973,2.964,2.927,2.921,2.97,3.015,3.011,2.982,2.984,2.97,2.993,3.025,3.018,2.983,2.965,2.975,2.987,2.978,2.938,2.968,2.991,2.96,2.956,2.941,2.975,2.971,3.0,3.013,3.006,3.018,2.986,3.035,2.972,2.973,2.963,2.94,2.962,2.991,3.044,3.029,2.994,3.038,3.042,3.044,3.016,3.044,3.065,3.061,2.993,2.99,2.978,2.952,2.922,2.916,2.983,2.985,2.984,3.0,2.96,2.963,3.023,2.988,2.951,2.97,2.976,2.975,2.959,2.979,2.974,3.004,3.004,2.998,2.966,2.945,2.961,2.97,2.915,2.982,3.002,3.014,3.025,2.941,2.952,2.959,3.003,2.983,2.961,2.965,2.929,2.937,2.98,2.976,2.953,2.99,2.975,3.04,3.009,2.998,2.939,2.947,2.944,2.948,2.928,2.924,2.883,2.899,2.939,2.979,2.968,2.986,2.979,2.959,2.948,3.003,2.958,2.987,2.955,2.94,2.972,2.975,2.985,2.955,2.956,2.961,3.002,2.98,2.997,2.992,2.982,2.965,2.939,2.963,2.94,2.983,2.967,2.975,2.999,3.004,2.936,2.961,2.93,2.973,2.99,3.015,3.01,2.964,2.972,2.97,3.024,3.004,3.007,2.994,3.008,2.999,2.961,2.966,3.033,3.03,3.01,2.945,2.934,2.969,2.988,2.976,2.994,2.984,2.962,2.95,2.941,2.896,2.944,2.924,2.919,2.957,2.984,2.954,2.958,2.969,2.988,2.948,2.939,2.925,2.938,2.982,3.006,2.992,2.995,2.954,2.956,2.921,2.97,2.955,3.026,3.002,2.99,2.972,2.967,2.973,2.932,2.953,2.974,2.959,2.979,3.009,3.002,2.984,2.963,2.954,3.026,2.993,3.001,3.018,2.999,2.997,2.996,3.003,2.969,2.967,2.975,2.985,2.98,2.99,3.026,3.008,2.971,2.964,2.98,2.994,2.985,2.989,2.995,3.016,3.014,2.965,2.941,2.939,2.97,2.977,2.97,2.954,2.953,2.96,2.971,3.02,2.97,2.959,2.995,2.962,2.963,2.926,2.963,2.937,2.925,2.925,2.959,2.938,2.936,2.979,2.987,2.992,2.96,2.949,2.958,2.972,3.005,2.989,2.965,3.002,2.991
+Binned average pointwise score by position:
+3.0712600000000005,3.03437,3.01959,3.006740000000001,2.9989699999999986,2.988010000000001,2.98499,2.982640000000001,2.972420000000001,2.9718100000000005
+Truncated average pointwise score by position:
+2.0,2.706,3.047,3.181,3.235,3.229,3.214,3.188,3.195,3.18,3.148,3.079,3.121,3.134,3.137,3.137,3.109,3.088,3.1,3.114,3.089,3.113,3.156,3.075,3.068,3.086,3.065,3.064,3.049,3.088,3.096,3.099,3.084,3.134,3.127,3.061,3.072,3.082,3.071,3.073,3.108,3.086,3.026,3.088,3.101,3.091,3.08,3.062,3.034,3.119,3.142,3.112,3.11,3.096,3.103,3.136,3.07,3.061,3.052,3.078,3.1,3.081,3.07,3.011,3.036,3.065,3.02,3.039,3.056,3.061,3.076,3.064,3.084,3.049,3.045,3.022,3.023,3.062,3.097,3.076,3.079,3.047,3.038,3.03,3.015,3.055,3.038,3.082,3.08,3.043,3.044,3.028,3.048,3.045,3.057,3.058,3.071,3.068,3.112,3.035,3.046,3.044,3.039,3.042,3.049,3.108,3.082,3.053,3.055,3.052,3.056,3.082,3.063,3.078,3.04,2.996,3.034,3.044,3.022,3.047,3.027,3.024,3.035,2.999,3.025,3.044,2.991,3.048,3.032,3.023,3.097,3.045,3.081,3.094,3.057,3.03,3.044,3.023,3.032,3.055,3.031,3.027,2.982,3.018,3.048,3.044,3.093,3.086,3.083,3.04,3.074,3.052,2.995,3.015,2.978,2.979,2.963,2.98,2.994,3.026,3.035,3.016,2.986,3.036,3.004,3.056,3.028,3.021,2.994,2.991,3.047,3.017,3.042,2.989,2.995,3.035,3.07,3.075,3.064,3.047,3.039,3.014,3.023,3.034,3.034,3.025,3.039,3.007,3.026,3.015,2.98,3.029,3.047,2.971,3.029,3.022,2.972,3.009,3.026,3.074,3.045,3.048,3.005,2.98,3.023,3.02,3.011,3.042,3.056,3.009,3.039,3.111,3.088,3.045,2.992,2.986,2.986,3.017,3.038,2.988,3.031,3.021,3.014,3.021,3.014,2.992,3.01,2.999,2.976,2.985,3.023,3.051,3.033,3.029,3.052,3.062,3.033,2.993,3.029,3.035,3.06,3.022,2.975,2.969,2.99,3.012,3.031,3.003,3.024,3.037,3.034,2.99,2.983,3.014,3.038,3.011,3.007,3.012,3.057,3.049,3.044,3.018,2.985,3.016,3.068,3.059,3.028,3.003,2.983,2.997,3.009,3.001,3.024,2.979,3.009,3.007,3.036,3.017,2.988,2.97,2.961,3.021,2.997,3.009,3.005,3.031,3.017,3.022,3.005,3.005,3.011,3.051,3.01,3.031,3.016,3.069,3.057,3.015,3.041,3.002,3.001,2.999,2.998,3.004,3.001,2.986,2.991,2.979,3.018,3.014,2.985,3.013,3.043,3.055,3.058,2.999,2.99,3.003,3.005,3.026,3.017,3.0,3.026,3.015,2.976,2.999,2.99,3.01,3.022,3.024,3.023,2.973,3.015,3.001,3.003,2.977,2.979,2.99,3.028,2.986,2.994,3.032,3.004,3.012,2.943,2.977,3.018,3.004,2.948,2.965,2.99,2.962,2.989,2.961,3.026,3.048,3.062,3.06,3.087,3.059,3.035,3.023,3.03,3.034,3.045,3.025,3.042,3.043,2.995,2.979,2.986,2.998,2.991,2.988,2.973,2.962,2.994,2.988,3.008,2.99,2.993,3.001,2.952,2.992,2.979,3.035,3.013,2.981,3.021,3.079,2.991,2.991,3.001,2.992,2.982,2.972,2.99,3.021,3.057,3.028,3.037,3.013,3.019,3.003,3.03,3.046,3.023,3.021,3.03,3.013,3.026,2.997,2.984,3.019,2.99,2.97,2.96,2.953,2.903,2.928,2.959,2.978,2.999,2.991,3.045,2.999,2.957,2.991,3.028,3.033,2.982,2.97,2.9,2.951,2.956,2.945,2.975,3.013,2.953,2.996,3.02,3.024,2.975,2.995,2.973,2.988,2.954,2.983,3.047,2.994,3.037,3.014,2.994,3.04,3.014,2.972,2.959,2.958,2.955,2.965,3.003,3.032,3.021,3.021,2.994,3.042,3.069,3.052,3.03,3.032,3.086,3.051,3.073,3.041,2.989,2.969,2.951,2.971,2.988,3.008,3.008,3.007,2.956,2.964,2.92,2.953,2.983,3.063,2.994,3.011,3.062,3.065,3.027,3.008,2.988,2.988,2.954,2.991,2.984,3.015,3.016,2.993,2.934,2.923,2.979,2.964,2.929,2.998,2.978,2.977,2.987,3.008,3.057,3.033,3.022,3.031,3.011,3.015,3.0,3.02,2.969,2.942,2.955,2.978,3.044,3.0,3.001,3.085,3.046,3.048,3.017,2.937,3.023,2.989,2.991,3.042,2.995,2.955,2.976,2.99,3.023,3.016,3.019,2.987,2.982,2.981,2.997,2.955,2.961,2.968,2.972,3.002,2.982,2.954,2.956,3.027,3.036,3.061,3.004,2.983,2.948,2.987,2.972,2.927,2.952,2.975,2.955,2.969,2.987,2.976,2.904,2.946,2.963,2.97,2.918,2.968,2.974,2.962,3.008,2.996,2.971,2.969,2.993,2.987,2.992,2.958,2.948,3.01,3.029,3.036,2.98,2.942,2.958,2.973,2.961,2.983,2.995,3.03,3.015,3.011,3.046,3.033,3.009,2.951,3.008,3.03,2.964,2.979,2.933,2.934,2.966,2.977,3.005,2.997,3.04,3.011,2.971,3.001,3.049,3.053,3.024,3.042,2.992,3.009,2.968,2.963,2.93,2.997,2.991,3.005,3.012,2.988,2.98,3.0,2.966,2.988,2.967,2.974,2.989,2.999,2.964,3.0,3.007,2.986,3.012,2.943,2.936,2.943,2.929,2.931,2.917,2.933,2.919,2.992,2.941,2.945,2.922,2.932,2.946,2.968,3.009,3.022,2.975,2.97,2.952,2.928,2.97,2.952,2.99,3.049,2.98,2.982,2.99,2.971,3.019,3.032,2.937,2.967,2.979,2.974,2.962,3.009,3.006,2.983,2.926,2.956,3.006,2.958,2.964,3.012,2.996,3.012,3.0,2.967,2.952,2.979,3.04,3.015,2.999,3.021,2.978,2.949,2.947,2.951,2.964,2.996,2.989,3.019,2.993,2.991,2.994,3.033,3.003,2.966,2.947,2.977,2.942,2.952,2.935,2.922,2.964,2.998,3.045,2.977,2.951,2.947,2.945,2.965,2.995,2.974,2.971,2.973,2.964,2.927,2.921,2.97,3.014,3.011,2.982,2.984,2.97,2.992,3.025,3.017,2.98,2.963,2.975,2.987,2.978,2.937,2.968,2.991,2.96,2.956,2.941,2.975,2.971,3.0,3.013,3.006,3.018,2.986,3.034,2.972,2.972,2.963,2.94,2.962,2.991,3.044,3.029,2.993,3.036,3.039,3.039,3.012,3.038,3.059,3.052,2.989,2.984,2.973,2.952,2.921,2.914,2.979,2.979,2.978,3.0,2.96,2.963,3.023,2.987,2.95,2.97,2.975,2.973,2.956,2.979,2.974,3.004,3.004,2.998,2.966,2.945,2.961,2.97,2.915,2.98,3.0,3.011,3.025,2.941,2.952,2.959,3.003,2.983,2.961,2.964,2.928,2.935,2.977,2.972,2.948,2.989,2.975,3.038,3.004,2.995,2.935,2.947,2.944,2.948,2.928,2.924,2.883,2.899,2.939,2.979,2.968,2.986,2.979,2.958,2.946,3.0,2.954,2.986,2.955,2.939,2.969,2.97,2.978,2.95,2.955,2.959,2.999,2.98,2.997,2.992,2.982,2.965,2.939,2.963,2.94,2.983,2.967,2.974,2.997,3.002,2.935,2.959,2.927,2.969,2.984,3.008,3.001,2.961,2.972,2.97,3.024,3.004,3.007,2.994,3.007,2.999,2.961,2.966,3.033,3.03,3.01,2.945,2.934,2.969,2.988,2.975,2.994,2.984,2.961,2.948,2.938,2.896,2.944,2.924,2.919,2.957,2.983,2.954,2.958,2.969,2.988,2.947,2.937,2.922,2.934,2.977,3.006,2.992,2.994,2.954,2.956,2.92,2.968,2.955,3.026,3.002,2.99,2.972,2.967,2.973,2.932,2.953,2.973,2.957,2.976,3.004,2.997,2.978,2.963,2.954,3.026,2.992,2.998,3.013,2.995,2.991,2.995,3.0,2.963,2.96,2.966,2.974,2.98,2.989,3.023,3.003,2.964,2.958,2.98,2.994,2.983,2.986,2.99,3.012,3.009,2.965,2.941,2.939,2.97,2.976,2.968,2.954,2.953,2.96,2.971,3.02,2.969,2.957,2.995,2.962,2.963,2.926,2.963,2.937,2.925,2.925,2.959,2.938,2.936,2.978,2.985,2.989,2.956,2.949,2.958,2.972,3.005,2.989,2.965,3.002,2.991
+Truncated binned average pointwise score by position:
+3.0776263736263747,3.0330899999999996,3.0186700000000006,3.005630000000001,2.9981099999999996,2.98722,2.9821799999999996,2.9808900000000005,2.97118,2.970259999999999
+
+Overlap sizes: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Overlap proportions:1.0,0.6695425425425425,0.24335370741482967,0.06305717151454363,0.016568273092369478,0.005801005025125628,0.002612676056338028,0.0014259818731117825,0.0008941532258064516,0.0005570131180625631,0.0003252525252525252,0.00019413549039433772,0.00011032388663967611,6.0790273556231004e-05,2.8397565922920894e-05,1.6243654822335024e-05,1.016260162601626e-05,6.103763987792472e-06,3.054989816700611e-06
+
+Novel bigram examples in context
+Sea was discovered in 1898 playmakers , hence the Established ***surname Riachuelo*** yielded many legitimate sources with materials contained in 1488 .
+six dips range on 3 degrees . Other parameters that ***stud are*** odd words vary from what is Boys one type ,
+Portuguese men and horses interpreted tote out of this gourd ***( Montalto*** ich Massengale ) again . As the Child Protection Officer
+and Charles Mara as modernizing attempts for increasing manufacturing . ***Clubs trained*** on the celebrity training libraries endured by noblewomen after the
+, maneuvered Mega Man into the whirlwind sky by either ***Ratchet or*** Biobliterator . Dash freezes fire and blasts and wakes in
+( Players ) diaphonemes by requiring 377 and A. Freese ***becoming seven*** 's remaining outfielder ousted to begin <unk> production . Pérez
+, Progressive Voices have Marketed K. M. Pearl as a ***generic Joni*** Mack @-@ based band , but confusing Pornography to "
+dysentery : smallpox was affected by duplicity and persistence ; ***suicide challenged*** Matias <unk> 's Skits ( independent hysterical poisons ) tangentially
+fairytale Vaishnava <unk> Abe Walshe ; eventually Rati died Morya ***sadly appears*** to have begun walking on Mashhad Coursing Ka ( mga
+was approved only after viewed McCay might be known as ***Luciana .*** Furthermore , Lewis was not awarded any field VC ,
+. Coll Keswani requested another statistic niece retreat Alma suddenly ***recorded 2007*** Gruppenhorchgerät , the device attempted to protect itself from that
+State Treasurer Allen Braden , Estimates of players counted According ***to infields*** , receiving 148 his current contract trials . Garner 's
+Yoke ­ <unk> . And we apologize for the deficiencies ***: transportable*** cells are secretly infecting whatever sub connect ) Fullarton maintain
+the 3 ' upon Post Wittmann plants , Carnal Brigade ***11 HQ*** ( ammunition from 11 3 @,@ 000 yards , 30
+increase records from several sources for higher ( 239 ) ***veld than*** temperatures within higher elevations . IAH also hosts about 16
+naming universal eradication , inadequate clothing corridors , water improvement ***measures …*** Red Queensferry elite mixed groups morons , though causing concern
+17 with her on voice surfaces and sounds her Benegal ***unprotected while*** riding to MY Free erste S4 and Specialized Free Redemption
+daily ration back for butter and nails . When tidy ***popularity Muthuswami*** Tjallingii and Debtors laid outside the set of kitchen stoves
+months before his minister helped escape . Former cows .398 ***and Salai*** touched a school pill on 35 kg studio , Lafe
+of classified crime boreal minimums found that a few @,@ ***000 C*** type 2π manufactured due course were actually serious unavoidable degradation
+— with Landell , Prusias and Mephisto <eos> Class of ***2014 ranking*** — with Carly tagged in for the 2012 Tag Team
+disclosed on 8 August , Troopship MHA at the San ***Antonio Mosque*** . <eos> <eos> = = Reactions = = <eos> <eos>
+would be called Angelou 's " design Arisa " : ***Moser lurks*** on promises of exemption for each second move Phelps deserved
+the once tented vocal supporters of Tilak on Prophet and ***Siddha —*** with the praise given that here otherwise Hestia had beautifully
+nbps , an eighth Class twelve most creative cadet , ***Pehle Gattung*** hacked the board and familiarised his leadership , both with
+; Seduction Condillac has not suggested HIV despite the terrestrial ***south birds*** retiring . Because Hetrick 's interesting description insist cartridge objects
+now that they have so few traits wanted ; cf ***Paul Kedarnath*** manages yak 's coliseum at a much slower overhangs .
+and khani van <unk> al @-@ 'Vere to two Höttl ***( mandalas*** , incarnations of karas and <unk> ) which hides durbar
+pressure over 150 @,@ 000 . <eos> Raj 's final ***intelligence intelligence*** cut the debris in clay ; mudflats had to solidify
+, whom Bletchley Park programmed , did similar Adolescent Daffy ***Meyers "*** Quantum of Solace " to Tom Harris to ZZ Top
+24 , 1975 ) was an American transgender novelist who ***contributed spoofs*** and comics of 1936 and 1939 . Krohn contributed five
+Frodo Lakshmi and Lakewood Birns to Jason 's relatives after ***Danny fails*** SIM 's hunting hours on March 2 . Salt permanently
+824th @-@ Kl T- 2013 radar transfer and geospatial tech ***pigeon C*** @-@ 16D Clan Peter Simoni , destroyers Advocate Michael Buden
+had lustreless scheduling and in accordance with anclabris 's big ***hull hull*** , bracing data between unskilled @-@ armed barbari and Jedi
+lamb <unk> ) or superstructures drawn mainly by police . ***Madrigal calling*** for arrangement for New Steps citing Colors in 2004 as
+de Barreiros after the turn of the millennium . <eos> ***Although accused*** of throwing Joran van der Lasa into Solon Low ,
+returned where Devon and Devane dressed trademarked Magenta . After ***Jackson frequently*** rolled down a springboard <unk> reredos into a shrapnel shot
+, sinking the gates of St. Augustine , to command ***Maurice mingled*** at several enemy warehouses Ocean and Lake Mulla Juby across
+silent photographs to impact . Stan fights gyms and camping ***routines regularly*** , particularly when the trainer sleeps an elephant . Appreciating
+exposure to retorting tube detergent containing Yamauchi 's tray MBV ***found waste*** fiber to tell all addresses earned , not well received
+Region following Maktab <unk> removed from SAPSAN to Subhas Festa ***Nùng Muluzi*** and establishing the Torshov and Mennonite governments ( IGF @-@
+to feed hystricognaths in salamander colonies . " M C ***'awiil stone*** Mahishasura Maru then took request for prayers from European collaborators
+face @-@ hardened rubber emulsion topping only grain jams in ***Cuba afterwards*** . <eos> United President Gerardo Plekhanov 's American House General
+close to saving until his first visit . Outdone impressed ***Nicola over*** clubs in putting damage to Antimony , but during his
+like Eri ; Despujols ( <unk> das Binayaka ) , ***Ethology (*** Stab , Bašić ) , <unk> ( digest ) ,
+. Despite resolving punctured oppression caused Alyokhina to legacy roughly ***uttering 428*** " eglantine " exclaim that one Slough in fashion outlet
+to explore future beliefs in fables that side Topley @-@ ***Rama believed*** that Dark Girls rarely had Ge Wenji ' Breyne and
+javanicus ) and retinoids . The cognitive flexibility of the ***affected system*** is dependent on results , such as presence with certain
+Pistola claimed responsibility for Cutler 's claims , and Gesang ***Volkova said*** C151A agrees to hire his friend as originally a legal
+beige vinyl and <unk> by thermoplastic dyed the ferrite as ***K2 Sekawan*** 3 ( 1998 ) . Hingston Boss 's glass crisps
+extensive reserves of virulent personnel posing bomb hits because it ***indirectly targets*** the high concentration of wildfires related to extracting processes .
+<unk> . " weanling , as that Sayo employed , ***plays smiling*** in her Visage which violist Rik obliterans in regards to
+( therefore Wakayama BY ~ Barefoot Fits ) interface , ***59 songs*** , Fleskhus , 2C , Luchs , <unk> 13 ,
+cover data altered from eighteen to seven pin @-@ outs ***. splendours*** behind newer computers was lessened ; show Markov models constructed
+was buried and installed in twined beneath since 1875 by ***Fletcher Williamson*** , Richard Thompson and Possibility Taylor ( school documentary 15th
+headquarters branching off with their commander . Ten tribesmen also ***organized camp*** at Gaza to protect for salaries or intelligence . Meanwhile
+simulate audio poisoning . During reimbursements by conceptual work supplies ***tracing might*** dry out 5 C 's beams tsunami deep , curve
+than 10 getting on another long list – in 1971 ***balloons exude*** a whispering <unk> that an great yellow Danelectro fashioned with
+minds bombers in order to accommodate Nock 's superior actors ***sharing surgeries*** numerous times over their backs . These simple abounds in
+that Riley produced and witnessed as soon as he told ***McClellan he*** would likely " be below that section all Feb. .
+, which appeared advanced to public notice performed in the ***Latin Centrale*** prisca sole group 2 series . 1971 ’ s Citytunneln
+utility as an ELTs ending a connecting additive , with ***[ Greg*** ] Tm and a KB pidha , about 24 CMI
+now had once tried converting the eagerness to steal food ***from gumballs*** to pale , to white Winther . Situationist later tells
+and distant claustrophobia that sedated crime notes ( Padmini Kaitou ***Spaces )*** . McNeilly , Imelda 's demonic wife , discovered a
+" , a Eve Eckehard bee spontaneously breasts during liquor ***chains 6am*** . Ichigo 's spies make Beale ropes to mass footwear
+disbursements . Along <unk> banking smashed enough username of forward ***responder William*** Fard after 45 kilograms of phone tear stung spectacularly ,
+as the hormone grows . Scandal of punchcutters and genital ***Nebenzal in*** compound theory refers to Hasan loves as Admin 's and
+or the Good Cradle of Nature . By this place ***potatoes could*** pinewood and save vine rind or secondarily hoe off the
+<unk> @-@ CPA ) , however between 760 / <unk> ***and SHCS*** . <eos> MTech in the Bassem Kilika borders with Is
+for scaffolding or radar on Opening 67 Asia ; between ***1820 British*** American nationalists bore reservations ; Filatov commented that in spite
+Lumpur Southamptons were still on steroids citing them dislike of ***Helisaonina and*** plain vests contained with fabric covering CGs printed gas plays
+as featuring charismatic , anti @-@ gang capitalism : the ***rare crime*** brings Kenny ask How Do Willie Boitano is out to
+was complete in Hershl 's Panzers . DBM @-@ 70 ***consisted screw*** rails in single launchers with Eric Gruner and Setúbal Benedetto
+be free and these allow the crew their competitive conflict ***for gaited*** cars . Silver Carnival Go Ting cyclols from " Official
+<eos> Filthy <unk> Tey <unk> @-@ ulmi <eos> <unk> Sandberg ***Brockman Sampurnanand*** Frog right <eos> Lhünzhub Parks <eos> <eos> <eos> = Portbury
+States. , Expédition <unk> phylacteries ( WE Instance had luxe ***or nobler*** form ) Catargiu falls using Murri ladies dialect , Northern
+newspapers Whitfield dearly , despite this debut as we feed ***properly east*** of <unk> . <eos> A significant distance before formation for
+employment focused for Mindef including the V.B. L. equitata , ***the Rothemund*** <unk> in DVD , Gastón Crowell , tetrahedrite , and
+more wanted immortality Mogens pilosity with landing gear making noises ***idly in*** use by farts . Ambon became president in 1850 ,
+on wild bees useless near unpleasant squares and became serious ***scribbles that*** presumably looked incremental seeds which ultimately settled alive — Arthur
+lot ( Moderna ) dance to Trondheim . She jeer ***with Flocke*** . Burman lay on props , collect old reps from
+legislature and Fraser National Toddlers returned a pre @-@ vidarabine ***Hooters bid*** on from 1855 to June 2011 whilst picking the winter
+. Many Walliams Basoeki <unk> are provided later by vehicle ***makers Semen*** na <unk> på Parallele and <unk> عمر <unk> <unk> .
+Arnold no early to manage Goathouse Support , Newfoundland – ***Labrador Insta*** @-@ Ukyo Ferreira , following his arrival the previous year
+. They maintained that Warren E. Johnson extortionate space ( ***Renfro remained*** inactive enough for strikes during the 1899 campaign ) ;
+ubiquity " since Bruce aerial pilot in an article projected ***inside Star*** Cops 2011 . Michel photoluminescence wrote and jammed with Pratchett
+establish Anilai . Optional Kshatriyas were celebrated as traditional islanders ***established Dominicans*** in Macedonia . Within almost ten years of separation ,
+Airk who was aware hundreds of Spartans not providing " ***nothing unter*** love for 1916 " . <eos> Active fighting at Essence
+or sometimes hickories , all others in that stage , ***stopping spotted*** less fortunate if left @-@ wing south Correa is sinking
+after the incident were installed or ridiculed , yelling for ***them encapsulated*** with belief that harvesting illegal derbies sent to cook mixed
+) <eos> Monique Paoli - Live 1970 – 1989 <eos> ***Hi Murray*** Mackintosh ( 1969 – 95 , 1974 ) – Sonny
+the same family . Reforms repeatedly played a humiliation . ***Soft pasture*** — beating mats stretched between Charleroi and Magill via harvesting
+for Final Hours " Passenger Mohammed Eyeless replaced . Djurgården ***lodged further*** punting into the big manner , Blackburn succeeded <unk> Albufeira
+also gave sculptures of Kee together with Sáenz transmutation his ***forms List*** V diacritic . Surrounding a few patios indicate a peptide
+ice directly or avoid the adhesive unit scored by bacteriophages ***: HCFCs*** , Terebratulida , citta , Esox , gp120 , LBVs
+long titles he counts . " Sukhdev Sandhu also remembered ***Etna '*** collaborative effort thousand vocalists including Bud Praying and Amor Geralds
+Bridges via purinergic symmetry are useful because CCNR impurities provide ***kink modifications*** , however , to Picturedrome which can double some of
+M. labiatas , including angler <unk> altissima grub preserved by ***fence cover*** next to sessilis and <unk> immunosorbent assay rig in 2012
+balloons , cannons , wireless two . Elliot <unk> 'Brien ***unofficially heated*** a CAT scan of 15 Nguyen Công Do s Tk
+the Internet , Agârbiceanu rebuffed his designation upon having undergone ***internal euthanasia*** in approximately 1959 , much as Katerina Tô and Vally
+
+Supercopying examples in context
+
+Length of longest supercopying example: 0
+Longest supercopying example:
+
+
+Average supercopying overlap: 0
+Average supercopying max overlap: 0
+All supercopying overlaps:
+
+All supercopying max overlaps:
+
+Max supercopy overlap: 0
+Max supercopy:
+

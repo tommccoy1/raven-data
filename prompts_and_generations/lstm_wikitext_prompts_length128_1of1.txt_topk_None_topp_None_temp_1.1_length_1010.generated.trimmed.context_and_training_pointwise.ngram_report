@@ -1,0 +1,138 @@
+Generation filename: ../../data/prompts_and_generations/lstm_wikitext_prompts_length128_1of1.txt_topk_None_topp_None_temp_1.1_length_1010.generated.trimmed
+
+Perplexity: 87.04184087371826
+Pointwise score: 3.762153
+Inverse pointwise score: 0.29782925601130916
+Log2 pointwise score: 1.826869190270459
+Ln pointwise score:1.2662892285046414
+Truncated-5 pointwise score:3.598028
+
+Average pointwise score by position:
+2.0,2.867,3.413,3.661,3.752,3.81,3.839,3.824,3.864,3.828,3.866,3.837,3.831,3.946,3.926,3.884,3.881,3.836,3.799,3.787,3.764,3.781,3.802,3.849,3.824,3.778,3.82,3.831,3.785,3.822,3.762,3.782,3.785,3.857,3.818,3.804,3.761,3.809,3.804,3.778,3.748,3.782,3.758,3.836,3.791,3.737,3.735,3.756,3.743,3.698,3.737,3.748,3.734,3.774,3.765,3.723,3.705,3.731,3.785,3.805,3.822,3.816,3.777,3.741,3.75,3.819,3.808,3.835,3.827,3.816,3.834,3.85,3.832,3.82,3.733,3.767,3.786,3.808,3.751,3.726,3.742,3.799,3.756,3.737,3.78,3.813,3.823,3.777,3.789,3.818,3.782,3.697,3.715,3.774,3.748,3.754,3.775,3.888,3.842,3.748,3.768,3.816,3.873,3.765,3.769,3.774,3.8,3.789,3.754,3.707,3.764,3.791,3.832,3.829,3.818,3.774,3.814,3.78,3.821,3.845,3.845,3.823,3.89,3.91,3.834,3.881,3.876,3.881,3.909,3.829,3.846,3.836,3.848,3.765,3.815,3.873,3.771,3.773,3.744,3.736,3.761,3.74,3.735,3.735,3.761,3.762,3.773,3.772,3.85,3.861,3.821,3.864,3.865,3.848,3.803,3.765,3.824,3.868,3.865,3.836,3.784,3.857,3.847,3.801,3.809,3.761,3.771,3.748,3.818,3.807,3.719,3.7,3.744,3.738,3.779,3.81,3.696,3.742,3.716,3.757,3.803,3.838,3.758,3.765,3.756,3.788,3.828,3.838,3.814,3.805,3.771,3.779,3.806,3.847,3.842,3.844,3.86,3.849,3.826,3.8,3.756,3.736,3.771,3.79,3.821,3.812,3.797,3.77,3.751,3.796,3.76,3.752,3.778,3.762,3.784,3.764,3.726,3.72,3.771,3.806,3.796,3.804,3.809,3.793,3.817,3.786,3.771,3.74,3.731,3.712,3.76,3.81,3.815,3.794,3.725,3.734,3.806,3.761,3.774,3.718,3.754,3.799,3.896,3.878,3.813,3.851,3.83,3.758,3.751,3.792,3.808,3.767,3.783,3.851,3.835,3.833,3.773,3.782,3.784,3.778,3.77,3.737,3.75,3.785,3.735,3.731,3.754,3.76,3.765,3.758,3.752,3.716,3.779,3.789,3.77,3.765,3.739,3.768,3.813,3.786,3.851,3.795,3.817,3.829,3.77,3.72,3.796,3.755,3.759,3.791,3.846,3.803,3.81,3.828,3.878,3.923,3.893,3.837,3.8,3.793,3.76,3.736,3.782,3.737,3.719,3.725,3.762,3.754,3.735,3.734,3.809,3.77,3.823,3.858,3.887,3.913,3.911,3.886,3.854,3.839,3.83,3.821,3.738,3.772,3.767,3.765,3.772,3.756,3.77,3.697,3.764,3.728,3.713,3.733,3.709,3.704,3.719,3.758,3.672,3.701,3.646,3.679,3.767,3.8,3.736,3.82,3.788,3.782,3.736,3.717,3.709,3.727,3.765,3.747,3.742,3.732,3.736,3.776,3.773,3.807,3.719,3.788,3.714,3.793,3.809,3.739,3.715,3.685,3.657,3.748,3.721,3.728,3.711,3.765,3.776,3.766,3.738,3.764,3.768,3.689,3.733,3.77,3.782,3.716,3.675,3.661,3.706,3.717,3.776,3.774,3.744,3.725,3.739,3.727,3.713,3.768,3.754,3.754,3.696,3.732,3.718,3.658,3.661,3.706,3.735,3.756,3.743,3.755,3.75,3.722,3.763,3.727,3.716,3.759,3.772,3.734,3.774,3.771,3.749,3.772,3.772,3.785,3.745,3.747,3.786,3.76,3.74,3.73,3.725,3.762,3.744,3.848,3.844,3.792,3.759,3.8,3.787,3.828,3.774,3.792,3.794,3.807,3.791,3.773,3.77,3.776,3.76,3.731,3.692,3.634,3.689,3.723,3.767,3.728,3.707,3.727,3.716,3.715,3.785,3.715,3.759,3.696,3.758,3.767,3.76,3.806,3.78,3.816,3.749,3.758,3.825,3.825,3.787,3.696,3.681,3.72,3.758,3.77,3.747,3.752,3.755,3.773,3.855,3.822,3.735,3.745,3.777,3.794,3.729,3.771,3.791,3.78,3.815,3.783,3.748,3.821,3.811,3.77,3.766,3.79,3.826,3.776,3.697,3.68,3.72,3.718,3.71,3.71,3.72,3.765,3.75,3.797,3.793,3.775,3.762,3.756,3.789,3.819,3.783,3.77,3.779,3.721,3.707,3.724,3.726,3.759,3.777,3.798,3.834,3.848,3.794,3.759,3.795,3.816,3.814,3.813,3.798,3.77,3.806,3.737,3.812,3.839,3.818,3.854,3.853,3.851,3.8,3.732,3.785,3.77,3.787,3.797,3.766,3.717,3.687,3.758,3.767,3.75,3.708,3.703,3.768,3.788,3.758,3.734,3.76,3.702,3.73,3.69,3.715,3.699,3.75,3.717,3.71,3.753,3.754,3.695,3.705,3.67,3.663,3.681,3.704,3.744,3.736,3.76,3.76,3.737,3.731,3.751,3.774,3.768,3.76,3.78,3.729,3.752,3.791,3.76,3.743,3.799,3.801,3.74,3.755,3.749,3.783,3.799,3.795,3.745,3.767,3.733,3.739,3.731,3.729,3.744,3.781,3.808,3.767,3.776,3.791,3.73,3.661,3.683,3.635,3.622,3.624,3.628,3.652,3.72,3.74,3.777,3.792,3.778,3.839,3.743,3.714,3.786,3.758,3.804,3.779,3.759,3.742,3.708,3.694,3.799,3.789,3.706,3.721,3.757,3.733,3.757,3.766,3.702,3.764,3.777,3.677,3.693,3.688,3.733,3.721,3.733,3.717,3.778,3.797,3.792,3.775,3.773,3.745,3.75,3.789,3.791,3.787,3.796,3.812,3.754,3.702,3.722,3.747,3.741,3.694,3.725,3.71,3.739,3.761,3.733,3.653,3.708,3.737,3.75,3.736,3.745,3.723,3.76,3.693,3.744,3.728,3.741,3.705,3.756,3.728,3.719,3.679,3.69,3.711,3.793,3.748,3.734,3.734,3.699,3.746,3.752,3.702,3.722,3.742,3.779,3.792,3.774,3.736,3.78,3.749,3.826,3.793,3.779,3.748,3.724,3.761,3.755,3.77,3.739,3.732,3.785,3.716,3.73,3.777,3.775,3.766,3.762,3.784,3.752,3.797,3.821,3.783,3.765,3.772,3.72,3.721,3.725,3.725,3.72,3.753,3.737,3.732,3.777,3.766,3.743,3.734,3.727,3.753,3.783,3.76,3.744,3.729,3.776,3.739,3.788,3.782,3.778,3.776,3.746,3.705,3.733,3.733,3.774,3.819,3.771,3.705,3.752,3.74,3.765,3.767,3.783,3.774,3.735,3.66,3.725,3.755,3.769,3.816,3.83,3.773,3.728,3.717,3.762,3.772,3.775,3.722,3.714,3.687,3.735,3.686,3.708,3.758,3.701,3.664,3.717,3.728,3.773,3.804,3.723,3.73,3.758,3.814,3.818,3.78,3.773,3.719,3.755,3.729,3.809,3.745,3.768,3.759,3.73,3.736,3.726,3.737,3.751,3.759,3.71,3.712,3.727,3.745,3.78,3.776,3.759,3.734,3.759,3.729,3.709,3.72,3.731,3.805,3.759,3.752,3.794,3.751,3.754,3.832,3.817,3.788,3.806,3.732,3.75,3.714,3.745,3.797,3.788,3.766,3.729,3.719,3.725,3.749,3.776,3.794,3.758,3.733,3.756,3.765,3.726,3.689,3.743,3.761,3.809,3.781,3.759,3.739,3.698,3.689,3.671,3.687,3.769,3.743,3.742,3.71,3.69,3.715,3.76,3.788,3.784,3.864,3.808,3.77,3.752,3.771,3.753,3.693,3.761,3.766,3.751,3.779,3.77,3.75,3.769,3.757,3.752,3.759,3.813,3.754,3.818,3.809,3.753,3.793,3.832,3.726,3.784,3.822,3.829,3.8,3.77,3.782,3.755,3.728,3.731,3.7,3.69,3.716,3.756,3.769,3.798,3.763,3.784,3.821,3.781,3.754,3.806,3.731,3.752,3.759,3.749,3.717,3.698,3.71,3.718,3.74,3.75,3.689,3.71,3.8,3.816,3.76,3.767,3.76,3.752,3.785,3.774,3.79,3.814,3.745,3.768,3.733,3.759,3.726,3.776,3.798,3.745,3.752,3.711,3.776,3.767,3.695,3.775,3.799,3.771,3.785,3.719,3.703,3.706,3.683,3.719,3.701,3.696,3.706,3.657,3.695,3.696,3.722,3.728,3.731,3.792,3.803,3.751,3.816,3.817,3.864,3.792,3.771,3.743,3.743,3.79,3.773,3.778,3.815,3.793
+Binned average pointwise score by position:
+3.760329999999998,3.80298,3.7851099999999986,3.7532300000000007,3.7590200000000005,3.7580699999999996,3.74001,3.7518800000000003,3.7525999999999997,3.7583
+Truncated average pointwise score by position:
+2.0,2.867,3.413,3.661,3.752,3.81,3.839,3.824,3.864,3.821,3.852,3.821,3.811,3.928,3.9,3.86,3.856,3.815,3.78,3.774,3.751,3.765,3.795,3.84,3.817,3.768,3.811,3.82,3.779,3.813,3.757,3.772,3.773,3.839,3.8,3.791,3.749,3.8,3.793,3.763,3.735,3.766,3.738,3.809,3.776,3.73,3.729,3.749,3.741,3.693,3.728,3.733,3.727,3.762,3.747,3.711,3.695,3.719,3.777,3.793,3.804,3.792,3.753,3.716,3.732,3.797,3.794,3.814,3.799,3.796,3.814,3.837,3.817,3.803,3.72,3.755,3.77,3.799,3.737,3.715,3.727,3.782,3.744,3.734,3.773,3.808,3.816,3.767,3.778,3.814,3.779,3.69,3.71,3.767,3.74,3.745,3.769,3.877,3.839,3.748,3.764,3.81,3.862,3.746,3.744,3.758,3.792,3.783,3.744,3.698,3.753,3.778,3.824,3.819,3.8,3.753,3.787,3.753,3.796,3.814,3.818,3.788,3.848,3.874,3.796,3.833,3.828,3.829,3.867,3.795,3.81,3.798,3.812,3.729,3.781,3.84,3.764,3.763,3.735,3.731,3.754,3.736,3.728,3.723,3.755,3.756,3.762,3.76,3.832,3.839,3.807,3.845,3.852,3.844,3.795,3.759,3.813,3.854,3.848,3.816,3.774,3.843,3.837,3.79,3.799,3.748,3.752,3.732,3.802,3.794,3.711,3.694,3.738,3.731,3.767,3.797,3.688,3.735,3.705,3.742,3.786,3.819,3.738,3.744,3.733,3.762,3.795,3.796,3.77,3.786,3.746,3.758,3.787,3.837,3.83,3.838,3.847,3.84,3.811,3.78,3.732,3.71,3.748,3.773,3.8,3.786,3.778,3.754,3.737,3.778,3.753,3.745,3.771,3.753,3.777,3.753,3.718,3.705,3.755,3.787,3.783,3.785,3.795,3.778,3.796,3.756,3.748,3.711,3.704,3.693,3.735,3.79,3.794,3.782,3.715,3.725,3.795,3.749,3.761,3.709,3.744,3.785,3.878,3.86,3.801,3.85,3.827,3.755,3.751,3.786,3.798,3.754,3.775,3.837,3.816,3.805,3.742,3.759,3.772,3.764,3.762,3.729,3.742,3.777,3.726,3.726,3.746,3.749,3.764,3.755,3.749,3.71,3.769,3.776,3.753,3.757,3.726,3.75,3.795,3.767,3.826,3.773,3.794,3.801,3.742,3.688,3.761,3.729,3.735,3.763,3.813,3.784,3.8,3.819,3.863,3.902,3.866,3.8,3.768,3.773,3.735,3.723,3.763,3.714,3.696,3.706,3.737,3.728,3.71,3.704,3.782,3.744,3.796,3.827,3.861,3.882,3.884,3.849,3.826,3.813,3.804,3.792,3.729,3.758,3.755,3.752,3.754,3.74,3.751,3.687,3.754,3.723,3.71,3.728,3.7,3.695,3.713,3.747,3.661,3.69,3.64,3.679,3.767,3.797,3.728,3.811,3.777,3.771,3.724,3.708,3.707,3.724,3.76,3.742,3.737,3.728,3.731,3.768,3.763,3.797,3.707,3.769,3.707,3.785,3.803,3.734,3.71,3.681,3.652,3.742,3.718,3.722,3.703,3.755,3.762,3.756,3.731,3.761,3.765,3.688,3.731,3.766,3.775,3.714,3.671,3.659,3.702,3.717,3.775,3.77,3.737,3.717,3.733,3.726,3.711,3.765,3.753,3.75,3.689,3.725,3.711,3.654,3.653,3.703,3.734,3.753,3.737,3.746,3.74,3.715,3.76,3.724,3.714,3.754,3.765,3.727,3.768,3.765,3.749,3.772,3.771,3.784,3.743,3.741,3.775,3.748,3.732,3.721,3.717,3.751,3.729,3.834,3.831,3.784,3.757,3.794,3.783,3.819,3.767,3.783,3.786,3.794,3.775,3.75,3.741,3.753,3.743,3.713,3.672,3.626,3.679,3.711,3.756,3.723,3.699,3.723,3.708,3.702,3.776,3.706,3.75,3.692,3.752,3.757,3.757,3.802,3.773,3.813,3.744,3.75,3.812,3.81,3.77,3.681,3.674,3.711,3.751,3.76,3.733,3.738,3.735,3.758,3.842,3.81,3.725,3.733,3.77,3.782,3.718,3.759,3.78,3.762,3.796,3.764,3.729,3.794,3.78,3.744,3.748,3.77,3.802,3.748,3.688,3.671,3.711,3.716,3.708,3.705,3.717,3.761,3.745,3.789,3.781,3.763,3.749,3.744,3.773,3.797,3.763,3.749,3.763,3.718,3.701,3.717,3.715,3.743,3.754,3.773,3.809,3.827,3.775,3.748,3.781,3.797,3.8,3.799,3.783,3.751,3.786,3.72,3.792,3.814,3.787,3.815,3.808,3.824,3.79,3.723,3.783,3.768,3.785,3.793,3.765,3.715,3.687,3.757,3.763,3.747,3.702,3.696,3.762,3.782,3.75,3.722,3.746,3.698,3.728,3.689,3.712,3.695,3.744,3.706,3.697,3.744,3.75,3.687,3.693,3.658,3.651,3.669,3.698,3.742,3.732,3.755,3.752,3.724,3.715,3.738,3.757,3.747,3.742,3.759,3.713,3.733,3.773,3.746,3.731,3.788,3.786,3.734,3.747,3.745,3.776,3.794,3.789,3.744,3.763,3.728,3.731,3.721,3.713,3.728,3.766,3.798,3.752,3.76,3.785,3.726,3.655,3.678,3.626,3.61,3.608,3.618,3.644,3.713,3.735,3.77,3.786,3.766,3.821,3.73,3.703,3.771,3.737,3.776,3.754,3.746,3.728,3.691,3.681,3.785,3.773,3.689,3.7,3.732,3.714,3.736,3.742,3.685,3.75,3.761,3.661,3.671,3.666,3.705,3.687,3.694,3.672,3.733,3.743,3.75,3.728,3.722,3.707,3.715,3.749,3.757,3.749,3.753,3.77,3.713,3.685,3.702,3.721,3.717,3.69,3.723,3.708,3.736,3.757,3.728,3.653,3.708,3.736,3.745,3.729,3.739,3.719,3.759,3.689,3.738,3.717,3.728,3.687,3.739,3.719,3.707,3.673,3.685,3.703,3.788,3.74,3.721,3.72,3.679,3.731,3.739,3.687,3.709,3.724,3.758,3.771,3.75,3.706,3.754,3.733,3.808,3.772,3.754,3.733,3.708,3.749,3.736,3.757,3.719,3.709,3.761,3.695,3.71,3.754,3.774,3.761,3.754,3.773,3.741,3.782,3.808,3.765,3.744,3.745,3.687,3.705,3.708,3.717,3.711,3.743,3.724,3.715,3.759,3.746,3.717,3.714,3.703,3.723,3.751,3.725,3.723,3.708,3.75,3.713,3.766,3.762,3.763,3.754,3.724,3.687,3.713,3.708,3.746,3.8,3.75,3.694,3.732,3.731,3.753,3.755,3.777,3.77,3.729,3.655,3.716,3.743,3.761,3.807,3.826,3.772,3.725,3.715,3.754,3.761,3.759,3.712,3.708,3.68,3.727,3.677,3.698,3.747,3.689,3.651,3.714,3.724,3.766,3.804,3.722,3.727,3.751,3.802,3.804,3.765,3.76,3.712,3.747,3.717,3.797,3.734,3.757,3.756,3.73,3.735,3.722,3.73,3.741,3.752,3.71,3.712,3.724,3.738,3.768,3.769,3.75,3.725,3.747,3.715,3.697,3.713,3.725,3.797,3.747,3.742,3.786,3.738,3.739,3.816,3.806,3.777,3.792,3.722,3.736,3.699,3.726,3.774,3.771,3.746,3.706,3.703,3.712,3.747,3.775,3.793,3.754,3.73,3.754,3.763,3.722,3.685,3.734,3.749,3.789,3.761,3.739,3.733,3.695,3.683,3.67,3.684,3.761,3.734,3.731,3.696,3.684,3.712,3.753,3.779,3.771,3.847,3.791,3.759,3.738,3.755,3.741,3.679,3.744,3.754,3.74,3.764,3.751,3.726,3.751,3.739,3.741,3.745,3.793,3.73,3.795,3.788,3.726,3.783,3.818,3.714,3.767,3.796,3.803,3.778,3.745,3.75,3.719,3.709,3.718,3.685,3.685,3.708,3.747,3.761,3.785,3.75,3.771,3.804,3.769,3.745,3.791,3.713,3.734,3.743,3.745,3.709,3.692,3.701,3.709,3.728,3.736,3.673,3.701,3.788,3.8,3.742,3.746,3.733,3.719,3.764,3.758,3.767,3.785,3.724,3.747,3.716,3.741,3.713,3.765,3.786,3.733,3.737,3.688,3.745,3.749,3.682,3.768,3.794,3.766,3.783,3.716,3.698,3.697,3.676,3.71,3.697,3.692,3.703,3.654,3.691,3.688,3.711,3.717,3.719,3.776,3.782,3.73,3.794,3.792,3.844,3.776,3.751,3.726,3.719,3.76,3.748,3.755,3.793,3.773
+Truncated binned average pointwise score by position:
+3.778494505494505,3.784769999999999,3.76904,3.7421899999999977,3.7487299999999992,3.746020000000002,3.723620000000001,3.7361300000000015,3.74269,3.7426899999999983
+
+Overlap sizes: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32
+Overlap proportions:1.0,0.865985985985986,0.5158927855711423,0.21870310932798395,0.0826004016064257,0.03472763819095477,0.017504024144869214,0.009950654582074522,0.006380040322580645,0.004377396569122099,0.0030373737373737375,0.0020212335692618806,0.0013319838056680162,0.000878419452887538,0.000588235294117647,0.0004101522842639594,0.00030589430894308945,0.0002278738555442523,0.00017617107942973523,0.00013659531090723753,0.00010408163265306123,7.55873340143003e-05,5.3169734151329246e-05,3.7871033776867964e-05,2.5614754098360656e-05,1.846153846153846e-05,1.4373716632443531e-05,1.1305241521068859e-05,8.23045267489712e-06,5.1493305870236865e-06,2.061855670103093e-06,1.0319917440660475e-06
+
+Novel bigram examples in context
+. ) . However , less than a thousand bacterial ***tractors are*** still grown indoors in meadows and yew forests . Bald
+two days , the rest of the British authorities and ***French UNAMSIL*** helicopters and others had used attack methods to break out
+conditions , generally being produced in winter when temperatures dropping ***inches are*** sufficiently high . For the winter months the average soil
+to be error @-@ like . <eos> Applications which related ***mathematical invariants*** have not been made yet , Libri discovered two need
+home and do not have any sons . The Silver ***Gate may*** have , or was a good location , grouping the
+<eos> Richmond Park Secretariat made its annual visitation costs of ***1957 within*** its facilities , Rosalind Franklin International Holdings , the FNS
+these three cut out the six parrots rather than their ***throats (*** an early fever spill according to Lewis and Hamhuis ,
+have been knocked out they could lose jam on all ***two cone*** balls brought into the control by a first @-@ distance
+that brief plan that he would do these successes : ***Alexei got*** into the challenge , Zhang Guotao received 39 @,@ 467
+) . Use of a voltage allows it to be ***implemented continue*** A @-@ type algorithms in isolation . Until then ,
+summon some advice among Chinese officers of the Council . ***Ministers recommended*** Kỳ and Thi to the European Joint Committee to orchestrate
+, and the " evangelization " of the Jarrow @-@ ***age expropriated*** property , later their annual national average 1 @,@ 166
+decisive engagement ( we may be slain by bomb @-@ ***hit anti*** @-@ aircraft artillery fire while the others lost ) ,
+of divine consent " . In many other texts , ***Pusey is*** biased toward the persecutory interpretation , identified that sources believed
+their 26 October win . The 2 @,@ 104 league ***Douai Oval*** holds eight subsidiary winner and two UEFA Super Cup winners
+mental illness and difficulties with others ' creation spirit . ***<eos> cada*** Winesap went on to direct My Habits , Volume 2
+Little was made likely to Francisco Kahn 's art collection ***<unk> Betawi*** or <unk> <unk> several times as a contraction of Dazzle
+equidistant from three <unk> tanks , although ROK I / ***II Company*** was subsequently ordered ashore to push across the paddy fields
+. As well as legislative initiatives adopted by home people ***knitted at*** the sentencing facility , the government received many thousands of
+August 11 , while Mehmedbašić was accused of collaborating with ***Russian Eagle*** @-@ Russians in Cottbus , Scazzocchio approached the Austrian offices
+= <eos> <eos> Royal <unk> , and intended to complete ***three regulated*** assault methods for the war about 229 – 500 ,
+the ornate russet @-@ flanked samphire " , portray a ***rolling South*** Ward plain under the gable opening of Ember Ridge .
+Past Constable " <eos> " Statues " <eos> According to ***R.R. Ayres*** <eos> Portland Monthly News , as throw @-@ ship protection
+and administered by Venizelos as if he stayed in fear ***of affront*** to the Republic . He returned to Albania after the
+main campus was put up at the moment that the ***delivery measured*** a higher annual capacity . Because mining communications were slow
+’ s independent operations , including purchasing quantitative and international ***financial designations*** . It also serves the World Bank , SAS Air
+titled " Sparks Triangle " stories — The Electric Club ***greensand ,*** a improvisational extract of the melodic number with the 3
+Chimney to Narrow Garden was in common snow , the ***overhead cable*** gained an altitude of over 100 @,@ 000 feet (
+twice the winter . Fitzgerald was quick to de @-@ ***iced at*** Brilliant as she did attempt well , but was not
+its workshops and customer programs , in three different films ***— Greeley*** 's Britannia Creative , PCS and was under construction .
+, 41 % of respondents believed George Halas 's 81 ***practice touchdowns*** that he had been voted best quarterback . Led by
+a Windows keyboard in 380 nm , with Tech 's ***filtering capability*** being interpreted as a sign of Roman support for the
+like monkeys ; it held every sight during life until ***group souls*** desired mouthwatering but subhuman when they fell asleep on each
+every case , as it smarts , or ShVAK , ***Course across*** Slot No. 3 seems unbalanced in the end . After
+Suzuki , Carley Sato , Raúl Sanchez , Bison ’ ***s badminton*** chief <unk> Yasuhiro Takeda , geeky Sturch , pharmacologist <unk>
+Knight for a small volume of inferences but evidence of ***consistent fatty*** acids . <eos> <eos> = = = Cultivars = =
+agent she discovered has been denounced as absolutely not " ***sister letters*** " , the press is represented with the slogan "
+colonial economic stagnation primarily and not even with few exceptions ***until closer*** , of fuel than those laws were enacted during the
+, de Benneville Borges , Michael Ed <unk> and Wapi ***diabetes give*** way , lighting , and a conflicted moral vision "
+subsequently went missing and throughout the war there was a ***delay explaining*** he was unfit . Kabbah was able to fire his
+to filter Kanye up and enjoy Jerkins 's " energy ***crescendo plus*** the images of women with flair " . Ailbhe Malone
+more Victoria tankers were delivered ( by use of the ***new Nallasivam*** " Under Ismay " moniker ) and same by the
+'s engagement occurred on May 31 , 1976 , Julian ***McVicar was*** fired by the Los Angeles Lakers , and move forward
+in Ancient Britain and the great West Hurricane by Empress ***Elizabeth Matthews*** . The clearing for the 70 @,@ 000 @-@ square
+out the game . Probably because we are more affecting ***– Izabella*** Boneraper and Whitey Banks – friend of a defensive player
+... so an absolute majority should put forth a name ***your Senate*** . " Scott Stevenson accepted Woodland boldly , exclaiming the
+sponge use in Fourth to Watch the term [ ensuring ***mercury ]*** are not , " owing made over as drug serum
+San Diego Daily News stated that the filming of the ***series involved*** shorter scenes involving Whalen , including depicts his departure from
+or 19 guns would have been knocked out they could ***lose jam*** on all two cone balls brought into the control by
+while arming and resupplying the mice , while the very ***small monitors*** mounted on platform armor were often fitted to the stern
+political leadership organization of the Southeastern League that submitted a ***monetary amendment*** and organized the committee of animal rights teams at the
+% , and GB £ 46 @.@ 99 . Fiji ***furthermore ran*** its Tier 1 <unk> . British tourists were able to
+bronze overtones from the arms of his predecessors . Since ***these fixed*** example were broken out of the same shape he settled
+the right of the Mayor of Somerville , the Yukon ***River Inquirer*** just outside St. Paul 's Churchyard . Durango described the
+seeking asylum for schools ] , we have already dispatched ***some industrialists*** as teachers of national History " . He also criticized
+Spence L. Rybicki of West California Law School professor Cory ***Doctorow argued*** that the intentional treatment of the AHOF and the arrest
+Rome for this non @-@ Christian shrine were prominent in ***surviving deists*** , who removed references to an Islamic world 's laws
+trained control . The 68th had to pass through the ***principal some*** place . In the move to their position in the
+and geographical similar processes surrounding nuclear explosions ; ever giving ***better physiological*** explanations for understanding new processes , research through radiology ,
+, bookkeeping , and band writing . While Anderson supported ***British modes*** of education and literature whose course vision of the book
+lower and more deliberate ambient mood and to keep the ***sound quiet*** , music colours and pictures of the lead singer Fausto
+of Hud , Pierce celebrated during his production in the ***carpentry team*** . He made his murder in Ramsey , but Pompton
+to Pula . The battleship that operated the war @-@ ***exchange support*** ports had been raided by the Spanish submarine U @-@
+material fibers associated with ferns in Beaverton include the golden ***brush cherry*** with spotting tops that overlay iron sulfur feldspar , <unk>
+Disappearing Principles were silly and comedic and " sort of ***unmistakably familiar*** " , representing Stan though " the American everyman and
+some of the best restorations in Pearse 's history , ***requiring resources*** stolen from their rooms in stone forests for use in
+served by when the hostages were represented by a crouching ***thumb upon*** the rider , as if called magic . Nonetheless ,
+squadron . No. 3 Wing was deployed primarily as an ***Australian strike*** force against its air support policy , which Captain Brandhuber
+. <eos> Gehry introduced his signature @-@ on @-@ board ***wraparound camera*** to the Colorado Institute of Technology on April 6 ,
+Port and Briançon Petronas railway installations are among the 7 ***AM large*** areas of the city network that provides a community of
+the Rio Grande Valley and burned in the 19th century ***when Hernán*** Cortés ceded a region of southern Mexico . The Kankakee
+other legacy . Also in 1683 , Cleveland had a ***new pretext*** , that favored the new French attempts to engage ranked
+to fight him within the community , 831 . A ***large defeat*** by the opportunist from King Philip in St. James 's
+'s monuments , having removed thousands since February , many ***ridiculed lost*** interest in the Church . Guy Fawkes Day , the
+<eos> Another feasibility study on the program undertaken by the ***Administrative Authority*** of Brazil ( ODA ) has begun in 2003 .
+the latter caused only many minor feuds ; Santiago de ***Cayeux and*** other monarchs of Spain maintained campaigns ever claimed as convincing
+UGT , of a Sufi " <unk> " which still ***uses hermeneutic*** Latin or " lettre " more modified in this way
+however , did not attempt to alert Balzac to the ***softened nature*** of the council or be justified in the attitude of
+branches after leaving matriculation on their backs . Further case ***spending €*** 45 million considered had required only minor further hindering the
+= = <eos> <eos> As a public anchor — Steve ***Peacock evolved*** for children 's agency working on homes in rural homes
+well as a further 6 . At Serow , these ***lay groups*** of Polynesians supported half a landings at the port of
+running from a sports standard to five @-@ month , ***weekday round*** times . The CCC staff — by contrast , reflect
+Asian rodents , and later , related species such as ***spectacled cats*** and the pied mongooses and the Sunda falcon . Their
+<unk> polyurethane muscle , called modified oligonucleotide pancakes . Socially ***leniently doped*** cell membranes are made in a cell plasma hepatocytes and
+or according to Buecheler , was then Sword of the ***Incarnate One*** God . Speaking back to " Dream " , Hareide
+petrified wood and oil for so @-@ called ' thorny ***allotrope '*** in the form of contact : a larger @-@ than
+panelled role . Diane is able to read sections of ***erotic human*** subjects of the ghetto , and telling her not to
+" in large port to Minorca , arriving at Marsa ***Sirocco on*** 26 May 1944 driven by anti @-@ aircraft fire that
+in March 1997 . For the previous four months , ***before Hasselbaink*** was retained , he scored six league goals in 16
+weeks they refused to participate in the uprising at Christmas ***alongside Bullinger*** and then established opposition towards Catholic political parties to make
+include the right to assess a clinical appearance : <eos> ***<unk> qualia*** ; those compounds destined for a population when law <eos>
+of the wealthiest men in the Republic . Archeologist John ***Lu Spink*** considered these talks to be the result of foreign competition
+of collaborating with Russian Eagle @-@ Russians in Cottbus , ***Scazzocchio approached*** the Austrian offices against Le Sénat , but , at
+This slim version of the Columbus Observer bridge built in ***1957 equipped*** a 90 million CAD ( 9 @.@ 522 million horsepower
+through professional wrestling in different cities . She has a ***brother show*** Jackie Chan , Chori Voiced Killah , and Bengaluru <unk>
+and sticky fruit body . Both main and short @-@ ***growing specimens*** are all under acidic conditions and smaller tubes are wood
+and nominal units are a administrative region centered around <unk> ***per Krishnaraja*** Street district . Allahabad region of Puducherry and the Kaveri
+the doctrine relied largely on two examples of gun @-@ ***launched solution*** , from ambushes and demolitions on every ship against enemy
+he printed a painted canvas . According to local legend ***Edwin Heselton*** , the combination of figurative and artistic fiction , has
+In 1830 the United States Military Academy adopted the Silesian ***coin splitting*** line of the Second Boer War – designed to improve
+
+Supercopying examples in context
+
+Length of longest supercopying example: 0
+Longest supercopying example:
+
+
+Average supercopying overlap: 0
+Average supercopying max overlap: 0
+All supercopying overlaps:
+
+All supercopying max overlaps:
+
+Max supercopy overlap: 0
+Max supercopy:
+
